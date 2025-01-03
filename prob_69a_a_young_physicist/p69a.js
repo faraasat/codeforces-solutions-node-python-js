@@ -14,7 +14,7 @@ const main = () => {
   }
 
   if (a === 0 && b === 0 && c === 0) print("YES");
-  else return print("NO");
+  else print("NO");
 };
 
 main();
